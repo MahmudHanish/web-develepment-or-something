@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    background-color: red;
+    margin: auto; 
+    text-align: center;
+}
+h1:hover {
+    color: white;
+}
+p {
+    background-color: blue;
+    margin-top: 70px;
+    margin-left: 60px;
+    margin-right: 90px;
+    margin-bottom: 120px;
+    text-align:center;
+}
+#iownamazon {
+    font-size: 30px;
+}
+button {
+    /* height: 40px; */
+    width: 200px;
+    border-radius: 10px;
+    padding: 30px;
+}
+button:hover {
+    background-color: blue;
+}
+.twelve {
+    font-weight:bold ;
+    background-color: chocolate;
+}
+.container {
+    background-color:crimson;
+    height: 100px;
+    display:flex;
+    justify-content: space-evenly;
+    flex-direction: row-reverse;
+    flex-shrink: 20px;
+    align-items: center;
+}
