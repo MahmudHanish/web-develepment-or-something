@@ -44,3 +44,7 @@ button:hover {
     flex-shrink: 20px;
     align-items: center;
 }
+.twelve:hover {
+    background-color: brown;
+    color: white;
+}
