@@ -1,6 +1,7 @@
 body {
     margin: 0;
     padding: 0;
+    background-color: black;
 }
 
 h1 {
@@ -33,7 +34,7 @@ button:hover {
 }
 .twelve {
     font-weight:bold ;
-    background-color: chocolate;
+    ;
 }
 .container {
     background-color:crimson;
@@ -47,4 +48,21 @@ button:hover {
 .twelve:hover {
     background-color: brown;
     color: white;
+}
+h3 {
+    text-align: center;
+    background-color: green;
+    color: white;
+}
+#money_button {
+
+}
+#money_button:hover {
+    background-color: green;
+    color: gold;
+}
+.image {
+    background-color: grey;
+    display:flex;
+    align-content: center;
 }
